@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 300,
 		'params' : {}
 	};
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://sprinterchance.com/00d619809c34d55d95d66030ea83a1a4/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://sootproclaim.com/00d619809c34d55d95d66030ea83a1a4/invoke.js"></scr' + 'ipt>');
